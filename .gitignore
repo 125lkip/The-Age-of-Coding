@@ -3,6 +3,7 @@ node_modules
 
 # 编译缓存与构建产物
 .next
+out
 dist
 build
 
