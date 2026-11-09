@@ -11,3 +11,6 @@ build
 .DS_Store
 
 backend/.venv/
+backend/__pycache__
+
+*.pyc
